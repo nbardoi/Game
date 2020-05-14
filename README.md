@@ -3,7 +3,9 @@
 Word Guess Game is a simple version of a hangman style game. The purpose of this assignment was to create a word guess game using Javascript.
 
 ### Demo
-Word Guess Game is deployed [here]().
+Word Guess Game is deployed [here](https://nbardoi.github.io/Word-Guess-Game).
+
+
 
 ### How to Play:
 
