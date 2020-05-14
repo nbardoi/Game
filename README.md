@@ -15,7 +15,7 @@ If a correct letter is guessed, the game will reveal the letter in its correct l
 
 If the user guesses the correct city name before remaining guesses equal zero, then the game increments the number of wins and restarts the game by selecting a new random city name and reseting the game parameters.
 
-If the user does not guess the correct city name within the allocated number of guesses, then the game resets.
+If the user does not guess the correct city name within the allocated number of guesses, then the game resets. 
 
 ### Built With:
  - Javascript
