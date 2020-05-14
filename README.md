@@ -3,7 +3,7 @@
 Word Guess Game is a simple version of a hangman style game created with JavaScript.  
 
 ### Demo
-Word Guess Game is deployed [here](https://nbardoi.github.io/Word-Guess-Game). 
+Word Guess Game is deployed [here](https://nbardoi.github.io/Word-Guess-Game).  
 
 ![](assets/images/word_guess.png)
 
