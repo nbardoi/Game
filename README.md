@@ -13,7 +13,7 @@ Press any Alpha key (A-Z, a-z) to start game. Non alpha keys are ignored. The th
 
 If a correct letter is guessed, the game will reveal the letter in its correct location. If an incorrect letter is selected, then it will add the letter to a list on incorrectly guessed letters and decrement the remaining guesses count.
 
-If the user guesses the correct city name before remaining guesses equal zero, then the game increments the number of wins and restarts the game by selecting a new random city name and reseting the game parameters.
+If the user guesses the correct city name before remaining guesses equal zero, then the game increments the number of wins and restarts the game by selecting a new random city name and reseting the game parameters. 
 
 If the user does not guess the correct city name within the allocated number of guesses, then the game resets. 
 
